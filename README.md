@@ -13,6 +13,7 @@ como “Assistir depois”.
 ## Inspirado no app
 
 ### Letterboxd
+
 ![Letterboxd] <img width="283" height="331" alt="image" src="https://github.com/user-attachments/assets/13ee133e-70a1-4f75-b385-7530e565dca3" />
 
 
