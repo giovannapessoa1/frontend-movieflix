@@ -34,7 +34,7 @@ como “Assistir depois”.
 - [ ] Publicação do projeto (GitHub Pages ou similar)
 ---
 
-## ▶Como rodar o projeto
+## Como rodar o projeto
 
 Abra o arquivo `index.html` no navegador:
 
