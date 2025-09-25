@@ -14,7 +14,7 @@ como “Assistir depois”.
 
 ### Letterboxd
 
-<img width="289" height="331" alt="image" src="https://github.com/user-attachments/assets/13ee133e-70a1-4f75-b385-7530e565dca3" />
+<img width="283" height="209" alt="image" src="https://github.com/user-attachments/assets/4f1b1053-b873-4ded-bc27-915f51e137cd" />
 
 
 ---
