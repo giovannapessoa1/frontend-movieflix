@@ -1,5 +1,3 @@
-# frontend-movieflix
-
 # 📱 Buscador de Filmes
 
 A ideia é um site onde o usuário possa buscar por filmes, visualizar detalhes básicos
@@ -13,7 +11,9 @@ como “Assistir depois”.
 ## Inspirado no app
 
 ### Letterboxd
-![Letterboxd](c:\Users\GIOVANNAPESSOACOUTOP\Downloads\Letterboxd.png)
+
+<img width="283" height="209" alt="image" src="https://github.com/user-attachments/assets/4f1b1053-b873-4ded-bc27-915f51e137cd" />
+
 
 ---
 
