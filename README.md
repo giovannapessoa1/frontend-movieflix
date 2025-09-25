@@ -1,37 +1,38 @@
 # frontend-movieflix
 
-# 📱 Nome do Projeto
+# 📱 Buscador de Filmes
 
-Breve descrição do seu projeto de front-end.
+A ideia é um site onde o usuário possa buscar por filmes, visualizar detalhes básicos
+como: o título, ano, pôster e sinopse, além de que você pode salvar como “Favorito” ou
+como “Assistir depois”.
 
-> Exemplo: Aplicação web desenvolvida em React para exibir informações de usuários e permitir autenticação via formulário. Projeto feito com foco em responsividade e boas práticas de desenvolvimento front-end.
 
----
-
-## 🖼️ Demonstrações
-
-### 🏠 Tela Inicial
-![Tela inicial](./assets/tela-inicial.png)
-
-### 🔐 Tela de Login
-![Tela de login](./assets/login.png)
-
-> 💡 Coloque suas imagens na pasta `assets/` ou similar e use o caminho correto.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Inspirado no app
 
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Axios](https://axios-http.com/)
-- [React Router](https://reactrouter.com/)
+### Letterboxd
+![Letterboxd](c:\Users\GIOVANNAPESSOACOUTOP\Downloads\Letterboxd.png)
+
+---
+
+## Tecnologias Utilizadas
+
+- JavaScript,
+- CSS
+- HTML
 - Outras...
 
+## Funcionalidades basicas
+
+- Pesquisar filmes
+- Ver detalhes relacionados ao filme
+- Salvar como favorito
+- Salvar para assistir depois
 ---
 
-## ⚙️ Como rodar o projeto localmente
+## Como rodar o projeto localmente
 
 Siga os passos abaixo:
 
