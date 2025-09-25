@@ -1,5 +1,3 @@
-# frontend-movieflix
-
 # 📱 Buscador de Filmes
 
 A ideia é um site onde o usuário possa buscar por filmes, visualizar detalhes básicos
