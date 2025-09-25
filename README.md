@@ -24,29 +24,19 @@ como “Assistir depois”.
 - HTML
 - Outras...
 
-## Funcionalidades basicas
+## Roadmap
 
-- Pesquisar filmes
-- Ver detalhes relacionados ao filme
-- Salvar como favorito
-- Salvar para assistir depois
+- [ ] Estrutura inicial do projeto (HTML, CSS, JS)
+- [ ] Estilização com CSS
+- [ ] Adição de interações com JavaScript
+- [ ] Responsividade para mobile
+- [ ] Validação de formulários
+- [ ] Publicação do projeto (GitHub Pages ou similar)
 ---
 
-## Como rodar o projeto localmente
+## ▶Como rodar o projeto
 
-Siga os passos abaixo:
+Abra o arquivo `index.html` no navegador:
 
-```bash
-# 1. Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
-# 2. Acesse a pasta do projeto
-cd nome-do-projeto
-
-# 3. Instale as dependências
-npm install
-
-# 4. Rode o servidor de desenvolvimento
-npm run dev
-
+- Dê um duplo clique no arquivo
 
